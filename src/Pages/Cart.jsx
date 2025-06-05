@@ -134,7 +134,7 @@ const Cart = () => {
                       type="text" 
                       id="promo" 
                       placeholder="Enter code" 
-                      className="flex-1 border rounded-l-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500"
+                      className="flex-1 border rounded-l-lg px-4 py-2 focus:outline-none focus:ring-2 focus:ring-indigo-500 w-full"
                     />
                     <button className="bg-indigo-600 text-white px-4 py-2 rounded-r-lg hover:bg-indigo-700">
                       Apply

@@ -64,7 +64,7 @@ const Navbar = () => {
               <FiShoppingCart className="mr-2" /> Cart
 
                <span className="absolute -top-2 -right-2 bg-indigo-600 text-white text-xs font-bold rounded-full h-5 w-5 flex items-center justify-center">
-                0
+                 {cart.length}
               </span>
               </Link>
           </div>
